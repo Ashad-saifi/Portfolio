@@ -6,6 +6,18 @@ A sleek, modern, and highly interactive developer portfolio website designed to 
   <img src="images/project%20!.jpg" alt="Portfolio Preview" width="800" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0, 212, 255, 0.2);" />
 </p>
 
+---
+
+## 📖 About Me
+
+I'm **Ashad Saifi**, a **Bachelor of Computer Applications (BCA)** student based in Sikandrabad, Bulandshahr, India. I am a passionate web developer focused on mastering modern frontend and backend technologies to build impactful, user-centric web applications.
+
+* 💡 **Current Focus:** Full-stack development, interactive UI design, and responsive clean layouts.
+* ⚙️ **Core Values:** Writing modular clean code, optimizing web performance, and ensuring cross-browser styling.
+* 📬 **Direct Connect:** [WhatsApp](https://wa.me/918218194545) | [LinkedIn](https://www.linkedin.com/in/ashad-saifi-aba231314/)
+
+---
+
 ## ✨ Key Features
 
 * **🎭 Dynamic Typewriter Effect:** Auto-typing text in the hero section displaying multiple developer professions.
